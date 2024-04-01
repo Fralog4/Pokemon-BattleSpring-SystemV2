@@ -35,3 +35,9 @@ This project brings the thrill of Pokemon battles to life! Simulate turn-based c
 We welcome contributions from passionate trainers! Feel free to fork the repository, make your mark, and submit pull requests to shape the future of the Pokemon Fight System.
 
 **Let the battle begins!**
+
+
+![image](https://github.com/Fralog4/Pokemon-BattleSpring-SystemV2/assets/145924630/264dae29-21ae-404f-88d0-356d842fc120)
+
+![image](https://github.com/Fralog4/Pokemon-BattleSpring-SystemV2/assets/145924630/e579f3b7-1d7c-4189-b0bc-7d345de9cd68)
+
